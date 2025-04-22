@@ -16,7 +16,7 @@ Each April, Fashion Revolution Week invites the public to ask brands **“Who ma
 
 ## Data Sources
 
-###Fashion Transparency Index (2020–2024)
+### Fashion Transparency Index (2020–2024)
 
 Raw datasets were extracted from [**WikiRate**](https://wikirate.org/), an open-source platform for collaborative research on corporate sustainability. The following metrics were selected for export:
 
@@ -136,7 +136,7 @@ The work here can support:
 > Colasante, A. & D'Adamo, I. (2022). *Sustainability and Consumer Behavior in the Apparel Sector*. NIH Open Dataset.
 
 ### Data Collection and Analysis  
-Data cleaning, formatting, and all Python-based analysis performed by [Your Name Here]. Visuals were used to inform the final Tableau dashboard.
+Data cleaning, formatting, and all Python-based analysis performed by Scarlett Moldovan. Visuals were used to inform the final Tableau dashboard.
 
 ---
 
