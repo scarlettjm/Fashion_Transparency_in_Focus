@@ -121,6 +121,8 @@ A simple regression modeled the trend in **average Transparency Index scores** o
 - Regression overlay on Transparency Index scores
 - 2020 vs 2024 comparison boxplot
 
+---
+
 ## Final Visualization Process
 
 The final visualizations in this project were designed to communicate complex data in creative, accessible, and engaging ways. While all visuals are rooted in **code-based analysis and statistical modeling**, many were reimagined through a design-forward lens to emphasize storytelling and user interaction.
