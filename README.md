@@ -143,6 +143,8 @@ The final visualizations in this project were designed to communicate complex da
 
 > **Goal:** Merge rigorous data analysis with visually-driven storytelling to create a project that is both analytically grounded and aesthetically compelling.
 
+[View the Full Interactive Project Website](https://readymag.website/u1238775297/5490197/)
+
 ---
 
 ## Conclusion
