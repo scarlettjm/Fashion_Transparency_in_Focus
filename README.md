@@ -1,7 +1,5 @@
 # Clear Cut: Sustainability in Focus
 
----
-
 ## Project Overview
 
 As conversations around climate change, ethics, and sustainability reshape the fashion industry, consumer expectations have shifted accordingly. Shoppers are more willing than ever to pay for eco-conscious and socially responsible clothing — but are fashion brands keeping up?
