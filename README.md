@@ -1,6 +1,6 @@
 # Clear Cut: Sustainability in Focus
 
--- 
+---
 
 ## Project Overview
 
