@@ -1,4 +1,4 @@
-# Clear Cut: Fashion Transparency in Focus
+# Clear Cut: Sustainability in Focus
 
 ## Project Overview
 
