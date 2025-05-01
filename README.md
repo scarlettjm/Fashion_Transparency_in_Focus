@@ -98,7 +98,7 @@ A simple regression modeled the trend in **average Transparency Index scores** o
 
 ---
 
-## Visualizations
+## Python Visualizations
 
 ### Created in Python:
 - Top/bottom company bar plots
@@ -107,11 +107,26 @@ A simple regression modeled the trend in **average Transparency Index scores** o
 - Regression overlay on Transparency Index scores
 - 2020 vs 2024 comparison boxplot
 
-### Created in Tableau: (link will eventually be here with more info)
-- Country average map
-- Transparency Index change over time
-- Top/bottom filters
-- Integrated comparison with consumer sentiment
+## Final Visualization Process
+
+The final visualizations in this project were designed to communicate complex data in creative, accessible, and engaging ways. While all visuals are rooted in **code-based analysis and statistical modeling**, many were reimagined through a design-forward lens to emphasize storytelling and user interaction.
+
+### Tableau Visualizations
+
+- **Radial Bar Chart:**  
+  Created in Tableau using brand-level average Fashion Transparency Index scores (2020–2024). Radial positions were calculated using trigonometric functions (angle-to-radian conversions), with dual `X` and `Y` coordinate calculations and a `Path Order` field to generate each bar as a line segment radiating outward from a central axis.
+
+- **Country Map:**  
+  Built in Tableau to visualize average Fashion Transparency Index scores by country for each year and across all years. Countries are shaded using a sequential color scale based on average score. A year selector enables users to track transparency changes over time.
+
+### Illustrator Visualizations
+
+- All remaining visualizations — including the **paper doll matching game**, **closet barrier racks**, **shopping bag timeline**, and **flat-lay grid of values** — were created in Adobe Illustrator.
+- These visuals were first conceptualized from Python-based data outputs, then turned into hand-drawn or compositional images, which were **vectorized and stylized** to align with fashion and sustainability themes.
+- Each visual represents findings derived directly from statistical testing and analysis (e.g., ANOVA, Tukey’s HSD, correlation matrices) and reinterpreted into a more creative and immersive visual experience.
+
+> **Goal:** Merge rigorous data analysis with visually-driven storytelling to create a project that is both analytically grounded and aesthetically compelling.
+
 
 ---
 
