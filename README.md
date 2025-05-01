@@ -202,9 +202,12 @@ Data cleaning, formatting, and all Python-based analysis performed by Scarlett M
 ---
 
 ## Tools Used
-- Python (Google Colab)
-- pandas, seaborn, matplotlib, scipy, statsmodels
-- Tableau Public
+- **Python (Google Colab)** – Data cleaning, analysis, and statistical testing (ANOVA, Tukey HSD, correlations)
+- **pandas, seaborn, matplotlib** – Exploratory data analysis and visualization
+- **Tableau** – Creation of interactive visualizations (radial bar graph, country map, box plots)
+- **Adobe Illustrator & Canva** – Custom vector illustrations and infographic design
+- **Readymag** – Final publishing platform for the interactive website
+- **GitHub** – Version control and repository hosting for code, data, and documentation
 
 ---
 
