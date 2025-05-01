@@ -1,8 +1,14 @@
 # Clear Cut: Sustainability in Focus
 
+-- 
+
 ## Project Overview
 
-This repository explores trends in fashion industry transparency using **Fashion Revolution's Fashion Transparency Index** from 2020 to 2024. The analysis identifies top and bottom performers, tracks changes in average scores across years, and compares industry progress with **consumer sentiment data**. All analysis was performed using **Python (Colab)**, with final visuals created in **Tableau**.
+As conversations around climate change, ethics, and sustainability reshape the fashion industry, consumer expectations have shifted accordingly. Shoppers are more willing than ever to pay for eco-conscious and socially responsible clothing — but are fashion brands keeping up?
+
+This repository explores that central question using **Fashion Revolution's Fashion Transparency Index** (2020–2024) and sustainability-focused **consumer sentiment data**. The project identifies top and bottom performing brands, analyzes changes in transparency scores over time, and compares industry progress against what consumers say they value.
+
+All analysis was conducted in **Python (Google Colab)**. Visualizations were created in both **Tableau** and **Adobe Illustrator**, and are showcased on an interactive website that brings the data to life through storytelling and design.
 
 ---
 
