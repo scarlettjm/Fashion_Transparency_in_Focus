@@ -147,6 +147,18 @@ The final visualizations in this project were designed to communicate complex da
 
 > **Goal:** Merge rigorous data analysis with visually-driven storytelling to create a project that is both analytically grounded and aesthetically compelling.
 
+--- 
+
+## Interaction & Accessibility
+
+This project was designed not just to analyze data but to make that data **engaging and intuitive** for a wider audience. Visualizations were crafted with usability in mind — emphasizing clarity, storytelling, and interactivity. The final interactive site allows users to explore insights through:
+
+- Hover tooltips for statistical context
+- Clickable icons for deeper data interpretation
+- A clear visual hierarchy and accessible contrast levels
+
+The goal is to make complex information about transparency and consumer values **approachable, explorable, and visually compelling.**
+
 [View the Full Interactive Project Website](https://readymag.website/u1238775297/5490197/)
 
 ---
