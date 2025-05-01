@@ -20,6 +20,20 @@ Each April, Fashion Revolution Week invites the public to ask brands **“Who ma
 
 Raw datasets were extracted from [**WikiRate**](https://wikirate.org/), an open-source platform for collaborative research on corporate sustainability. The following metrics were selected for export:
 
+#### What the Transparency Scores Represent
+
+The **Fashion Transparency Index score** (0–100) reflects how much information a fashion brand publicly discloses across five key areas:
+
+1. **Policy & Commitments** – Sustainability goals, policies, and public promises  
+2. **Governance** – Accountability structures, board responsibility, and oversight  
+3. **Traceability** – Supplier maps, factory lists, and material sourcing disclosure  
+4. **Know, Show & Fix** – Auditing, remediation, and social/environmental monitoring  
+5. **Spotlight Issues** – Focus areas like climate action, wages, gender equity, and circularity  
+
+> **Important Note:** A high transparency score does **not** guarantee that a brand is ethical or sustainable — it indicates how much the brand **shares publicly** about its practices.
+
+All scores used in this project were averaged and analyzed to explore transparency trends across **brands**, **countries**, and **years**.
+
 - **2020–2023 Metrics:**
   - Policy & Commitments Score
   - Governance Score
@@ -98,7 +112,7 @@ A simple regression modeled the trend in **average Transparency Index scores** o
 
 ---
 
-## Python Visualizations
+## Initial Visualizations
 
 ### Created in Python:
 - Top/bottom company bar plots
@@ -127,6 +141,18 @@ The final visualizations in this project were designed to communicate complex da
 
 > **Goal:** Merge rigorous data analysis with visually-driven storytelling to create a project that is both analytically grounded and aesthetically compelling.
 
+---
+
+## Conclusion
+
+This project set out to explore a central question:  
+**As consumer sentiment increasingly favors sustainability, are fashion brands becoming more transparent in response?**
+
+By analyzing five years of Fashion Transparency Index scores alongside detailed consumer survey data, the project reveals a mixed picture. While **overall transparency has improved**, and some brands have made consistent progress, the **rate and depth of change often lag behind consumer expectations**. Many of the same barriers that discourage shoppers from acting on their values — lack of visibility, trust, or clarity — persist within the brands themselves.
+
+The creative visualizations presented here aim to bridge that gap: turning numbers into narratives, rankings into garments, and data into reflection. Whether you're an advocate, designer, or data analyst, this project invites you to **look closely at what’s being shown — and what’s still being hidden**.
+
+> Fashion may be visual — but transparency must be visible, too.
 
 ---
 
